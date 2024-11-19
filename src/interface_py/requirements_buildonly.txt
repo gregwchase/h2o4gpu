@@ -11,7 +11,7 @@ scipy==1.10.1
 numba==0.57.1
 psutil==5.9.7
 llvmlite==0.40.1
-future==0.16.0
+future==0.18.3
 tabulate==0.8.10
 joblib>=1.1.1
 # the same version as scikit-learn fork
