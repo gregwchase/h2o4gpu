@@ -22,7 +22,7 @@ python-dateutil>=2.8.1
 pytz>=2020.1
 scipy==1.10.1
 tabulate==0.8.10
-future==0.16.0
+future==0.18.3
 joblib>=1.1.1
 numba==0.57.1
 llvmlite==0.40.1
