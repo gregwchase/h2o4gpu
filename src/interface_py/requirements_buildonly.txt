@@ -18,5 +18,5 @@ joblib>=1.1.1
 scikit-learn==1.5.0
 dask-cuda==0.12.0
 dask[dataframe]==2.11.0
-distributed==2.11.0
+distributed==2026.1.1
 msgpack==0.6.2
